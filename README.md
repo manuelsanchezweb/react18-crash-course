@@ -8,7 +8,7 @@ Live: https://react18-tutorial.netlify.app/
 
 Encontrarás el curso en las siguientes plataformas:
 
-- [Udemy](https://google.de)
-- [YouTube](https://google.de)
+- [Udemy](https://www.udemy.com/course/curso-react-18-gratis/?referralCode=1B1210C80DC545CE1BBB)
+- [YouTube](https://www.youtube.com/watch?v=o0HwamjhsWw)
 
 Happy coding!
