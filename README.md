@@ -4,7 +4,7 @@ En este repositorio encontrarás toda la información sobre el "React 18 Crash C
 
 Live: https://react18-tutorial.netlify.app/
 
-![Thumbnail](./brand/curso-react18-espanol.png)
+[![Thumbnail](./brand/curso-react18-espanol.png)](https://www.youtube.com/watch?v=o0HwamjhsWw)
 
 Encontrarás el curso en las siguientes plataformas:
 
